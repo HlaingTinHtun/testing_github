@@ -11,3 +11,4 @@ echo 'forth line from online';
 
 echo "fifth line from online";
   
+echo 'fifth line from cli';  
